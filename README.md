@@ -1,2 +1,2 @@
-# xel-official-website
+# xel official website
 official https://xel.org website
